@@ -1,0 +1,13 @@
+video {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  text-align: center;
+  padding: 20px;
+}
+
+.buttons {
+  margin-top: 16px;
+}
